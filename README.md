@@ -1,4 +1,4 @@
-# Infinite Scroll with api
+# Infinite Posts with 3rd party api
 
 ## Technology:
 
@@ -10,4 +10,4 @@
 -   [json-placeholder](https://jsonplaceholder.typicode.com/)
 -   [randomuser](https://randomuser.me/)
 
-**live: [here](https://marzuk-zarir.github.io/infinite_scroll/index.html)**
+**live: [here](https://marzuk-zarir.github.io/infinite_post/index.html)**
